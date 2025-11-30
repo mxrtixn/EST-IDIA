@@ -27,60 +27,70 @@ IDIA-Repository/
 ├── README.html
 │
 ├── Semestre-1/
-│   ├── README.html
-│   ├── Module-Algorithmique/
+│   ├── README.md
+│   ├── Module-Analyse/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
-│   ├── Module-Mathematiques-I/
+│   │   └── README.md
+│   ├── Module-Algebre/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
-│   ├── Module-Programmation-C/
+│   │   └── README.md
+│   ├── Module-Algorithmique-C/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
+│   │   └── README.md
+│   ├── Module-Conception-BD/
+│   │   ├── Cours/
+│   │   ├── TD/
+│   │   ├── TP/
+│   │   └── README.md
 │   ├── Module-Architecture-Ordinateurs/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
-│   └── Module-Outils-Méthodologie/
+│   │   └── README.md
+│   ├── Module-Fr-Ang/
+│   │   ├── Cours/
+│   │   ├── TD/
+│   │   ├── TP/
+│   │   └── README.md
+│   └── Module-Méthodologie-travail-universitaire/
 │       ├── Cours/
 │       ├── TD/
 │       ├── TP/
-│       └── README.html
+│       └── README.md
 │
 ├── Semestre-2/
-│   ├── README.html
+│   ├── README.md
 │   ├── Module-Structures-De-Données/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
+│   │   └── README.md
 │   ├── Module-Mathematiques-II/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
+│   │   └── README.md
 │   ├── Module-Programmation-Orientée-Objet/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
+│   │   └── README.md
 │   ├── Module-SQL-Bases-De-Données/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
+│   │   └── README.md
 │   └── Module-Probabilités-Statistiques/
 │       ├── Cours/
 │       ├── TD/
 │       ├── TP/
-│       └── README.html
+│       └── README.md
 │
 ├── Semestre-3/
 │   ├── README.html
