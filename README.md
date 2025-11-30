@@ -19,6 +19,12 @@ L’objectif général est de former des techniciens spécialisés capables de c
 développer et déployer des solutions basées sur les données.
 </p>
 
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="/assets/Modules-IDIA.png" 
+       alt="IDIA-Modules"
+       style="max-width: 100%; border-radius: 10px;">
+</div>
+
 <h2>Structure complète du repository</h2>
 
 <pre style="background:#f4f4f4; padding:15px; border-radius:6px; overflow-x:auto;">
@@ -192,12 +198,6 @@ Pour naviguer dans ce repository, suivez la structure :
 Ajoutez vos documents, codes sources, rapports ou résumés dans les dossiers appropriés.
 </p>
 
-<h2>Guide de contribution</h2>
-<p>
-Toute contribution doit respecter la structure existante.  
-Les fichiers doivent être clairement nommés, placés dans les bons dossiers et organisés selon
-l’arborescence prévue afin de garantir une lecture simple et cohérente du contenu.
-</p>
 
 <h2>Liste des matières par semestre</h2>
 <p>
