@@ -19,6 +19,12 @@ L’objectif général est de former des techniciens spécialisés capables de c
 développer et déployer des solutions basées sur les données.
 </p>
 
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="/assets/Modules-IDIA.png" 
+       alt="IDIA-Modules"
+       style="max-width: 100%; border-radius: 10px;">
+</div>
+
 <h2>Structure complète du repository</h2>
 
 <pre style="background:#f4f4f4; padding:15px; border-radius:6px; overflow-x:auto;">
