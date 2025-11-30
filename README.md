@@ -98,60 +98,71 @@ IDIA-Repository/
 │       └── README.md
 │
 ├── Semestre-3/
-│   ├── README.html
-│   ├── Module-Data-Science/
+│   ├── README.md
+│   ├── Module-Analyse-donnees/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
+│   │   └── README.md
+│   ├── Module-Structures-Donnees-C/
+│   │   ├── Cours/
+│   │   ├── TD/
+│   │   ├── TP/
+│   │   └── README.md
 │   ├── Module-Machine-Learning/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
-│   ├── Module-Analyse-De-Données/
+│   │   └── README.md
+│   ├── Module-Cloud-Virtualisation/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
-│   ├── Module-Programmation-Python-Avancée/
+│   │   └── README.md
+│   ├── Module-Gestion-Projet/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
-│   │   └── README.html
-│   └── Module-Mathématiques-Pour-IA/
+│   │   └── README.md
+│   ├── Module-BigData-NoSQL/
+│   │   ├── Cours/
+│   │   ├── TD/
+│   │   ├── TP/
+│   │   └── README.md
+│   └── Module-Web/
 │       ├── Cours/
 │       ├── TD/
 │       ├── TP/
-│       └── README.html
+│       └── README.md
 │
 ├── Semestre-4/
-    ├── README.html
-    ├── Module-Deep-Learning/
+    ├── README.md
+    ├── Module-IA-Explicable/
     │   ├── Cours/
     │   ├── TD/
     │   ├── TP/
-    │   └── README.html
-    ├── Module-Big-Data-Fondamentaux/
+    │   └── README.md
+    ├── Module-NLP/
     │   ├── Cours/
     │   ├── TD/
     │   ├── TP/
-    │   └── README.html
-    ├── Module-Projet-Data-IA/
+    │   └── README.md
+    ├── Module-Vie-Active/
     │   ├── Cours/
     │   ├── TD/
     │   ├── TP/
-    │   └── README.html
-    ├── Module-Mathématiques-Avancées/
+    │   └── README.md
+    ├── Module-BI-Decision/
     │   ├── Cours/
     │   ├── TD/
     │   ├── TP/
-    │   └── README.html
-    └── Module-Outils-Professionnels/
-        ├── Cours/
-        ├── TD/
-        ├── TP/
-        └── README.html
+    │   └── README.md
+    ├── Module-PFE/
+    │   ├── Projet/
+    │   └── README.md
+    └── Module-Stage/
+        ├── Rapport-Présentation/
+        └── README.md
  
 
 </pre>
