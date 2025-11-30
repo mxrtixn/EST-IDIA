@@ -24,7 +24,7 @@ développer et déployer des solutions basées sur les données.
 <pre style="background:#f4f4f4; padding:15px; border-radius:6px; overflow-x:auto;">
 IDIA-Repository/
 │
-├── README.html
+├── README.md
 │
 ├── Semestre-1/
 │   ├── README.md
@@ -66,27 +66,32 @@ IDIA-Repository/
 │
 ├── Semestre-2/
 │   ├── README.md
-│   ├── Module-Structures-De-Données/
+│   ├── Module-Probabilites-Statistiques/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
 │   │   └── README.md
-│   ├── Module-Mathematiques-II/
+│   ├── Module-Java-UML/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
 │   │   └── README.md
-│   ├── Module-Programmation-Orientée-Objet/
+│   ├── Module-Systemes-Exploitation/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
 │   │   └── README.md
-│   ├── Module-SQL-Bases-De-Données/
+│   ├── Module-Python/
 │   │   ├── Cours/
 │   │   ├── TD/
 │   │   ├── TP/
 │   │   └── README.md
-│   └── Module-Probabilités-Statistiques/
+│   ├── Module-Reseaux/
+│   │   ├── Cours/
+│   │   ├── TD/
+│   │   ├── TP/
+│   │   └── README.md
+│   └── Module-Culture-digitale/
 │       ├── Cours/
 │       ├── TD/
 │       ├── TP/
