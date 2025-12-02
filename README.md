@@ -188,7 +188,6 @@ Chaque module possède également un fichier <strong>README</strong> décrivant 
 <p>
 Pour naviguer dans ce repository, suivez la structure :  
 <strong>Semestre → Module → Cours / TD / TP</strong>.  
-Ajoutez vos documents, codes sources, rapports ou résumés dans les dossiers appropriés.
 </p>
 
 
