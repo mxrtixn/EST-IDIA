@@ -73,13 +73,11 @@ IDIA-Repository/
 ├── Semestre-2/
 │   ├── README.md
 │   ├── Module-Probabilites-Statistiques/
-│   │   ├── Cours/
-│   │   ├── TD/
-│   │   ├── TP/
+│   │   ├── Probabilités/
+│   │   ├── Statiqtiques/
 │   │   └── README.md
 │   ├── Module-Java-UML/
 │   │   ├── Cours/
-│   │   ├── TD/
 │   │   ├── TP/
 │   │   └── README.md
 │   ├── Module-Systemes-Exploitation/
@@ -95,12 +93,9 @@ IDIA-Repository/
 │   ├── Module-Reseaux/
 │   │   ├── Cours/
 │   │   ├── TD/
-│   │   ├── TP/
 │   │   └── README.md
 │   └── Module-Culture-digitale/
 │       ├── Cours/
-│       ├── TD/
-│       ├── TP/
 │       └── README.md
 │
 ├── Semestre-3/
@@ -112,17 +107,15 @@ IDIA-Repository/
 │   │   └── README.md
 │   ├── Module-Structures-Donnees-C/
 │   │   ├── Cours/
-│   │   ├── TD/
 │   │   ├── TP/
 │   │   └── README.md
 │   ├── Module-Machine-Learning/
 │   │   ├── Cours/
-│   │   ├── TD/
+│   │   ├── Datasets/
 │   │   ├── TP/
 │   │   └── README.md
 │   ├── Module-Cloud-Virtualisation/
 │   │   ├── Cours/
-│   │   ├── TD/
 │   │   ├── TP/
 │   │   └── README.md
 │   ├── Module-Gestion-Projet/
