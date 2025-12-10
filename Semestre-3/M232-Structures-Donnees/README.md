@@ -1,49 +1,31 @@
 
 <html><body>
-<h1>📘 Module : M232-Structures-Donnees</h1>
+<h1>Module : M232-Structures-Donnees</h1>
 
-<h2>📌 Informations générales</h2>
+<h2>Informations générales</h2>
 <ul>
 <li><b>Nom du module :</b> M232-Structures-Donnees</li>
-<li><b>Code :</b> -</li>
 <li><b>Semestre :</b> Semestre-3</li>
-<li><b>Professeur :</b> -</li>
+<li><b>Professeur :</b> M'hammed OUTANOUT</li>
 <li><b>Année universitaire :</b> 2024/2025</li>
-<li><b>Coefficient :</b> -</li>
 <li><b>Supports utilisés :</b> PDF, Diapositives, Livres</li>
 </ul>
 
-<h2>📝 Évaluation</h2>
+<h2>Évaluation</h2>
 <ul>
-<li>CC1 : -</li>
-<li>CC2 : -</li>
-<li>Examen final : -</li>
-<li>Projet / Mini-projet : -</li>
-<li>Barème : 40% contrôles + 60% examen</li>
+<li>Examen final : oui </li>
+<li>Contrôle : non </li>
+<li>Projet / Mini-projet : non </li>
 </ul>
 
-<h2>📚 Contenu pédagogique</h2>
-<ul>
-<li>Chapitres du cours : à remplir</li>
-<li>Objectifs d’apprentissage : comprendre et maîtriser le module</li>
-<li>Compétences à maîtriser : varies selon le module</li>
-<li>Niveau de difficulté : ⭐⭐</li>
-</ul>
-
-<h2>🔗 Ressources</h2>
+<h2>Ressources</h2>
 <ul>
 <li>Livres : -</li>
-<li>Liens utiles : -</li>
-<li>Chaînes YouTube : -</li>
-<li>Exercices recommandés : pratiquer régulièrement</li>
-</ul>
+<li>Liens utiles :
+  <a href="https://csvistool.com/" target="_blank">CSV</a> |
+  <a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" target="_blank">Visualisation d’algorithmes</a>
+</li>
 
-<h2>📝 Notes personnelles</h2>
-<ul>
-<li>Résumés : à ajouter</li>
-<li>Conseils : pratiquer les TD/TP</li>
-<li>Erreurs à éviter : ne pas ignorer la théorie</li>
-<li>Ce qui tombe souvent aux examens : exercices classiques</li>
 </ul>
 
 </body></html>

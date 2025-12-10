@@ -6,7 +6,6 @@
 <ul>
 <li><b>Nom du module :</b> M111-Analyse</li>
 <li><b>Semestre :</b> Semestre-1</li>
-<li><b>Professeur :</b> Mohammed EL KAJOUNI</li>
 <li><b>Année universitaire :</b> 2024/2025</li>
 </ul>
 
