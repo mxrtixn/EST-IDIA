@@ -2,7 +2,7 @@
 
 <div style="font-family: Arial, sans-serif; line-height: 1.6;">
 
-<h1>IDIA – Repository Complet</h1>
+<h1>IDIA</h1>
 
 <h2>Description de la filière IDIA</h2>
 <p>
