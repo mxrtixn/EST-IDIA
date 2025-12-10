@@ -6,7 +6,6 @@
 <ul>
 <li><b>Nom du module :</b> M232-Structures-Donnees</li>
 <li><b>Semestre :</b> Semestre-3</li>
-<li><b>Professeur :</b> M'hammed OUTANOUT</li>
 <li><b>Année universitaire :</b> 2024/2025</li>
 <li><b>Supports utilisés :</b> PDF, Diapositives, Livres</li>
 </ul>
