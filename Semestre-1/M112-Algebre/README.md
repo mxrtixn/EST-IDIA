@@ -1,10 +1,10 @@
 
 <html><body>
-<h1> Module : M111-ALgebre/h1>
+<h1> Module : M112-ALgebre</h1>
 
 <h2> Informations générales</h2>
 <ul>
-<li><b>Nom du module :</b> M111-AAlgebre</li>
+<li><b>Nom du module :</b> M112-AAlgebre</li>
 <li><b>Semestre :</b> Semestre-1</li>
 <li><b>Année universitaire :</b> 2024/2025</li>
 </ul>
