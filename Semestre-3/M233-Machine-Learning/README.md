@@ -6,7 +6,6 @@
 <ul>
 <li><b>Nom du module :</b> M233-Machine-Learning</li>
 <li><b>Semestre :</b> Semestre-3</li>
-<li><b>Professeur :</b> Acia IZZEM</li>
 <li><b>Année universitaire :</b> 2024/2025</li>
 <li><b>Supports utilisés :</b> PDF, Diapositives,/li>
 </ul>
